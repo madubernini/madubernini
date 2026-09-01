@@ -2,7 +2,7 @@
 
 **Engenheira de Dados** | Estudante de Análise e Desenvolvimento de Sistemas
 
-Trabalho construindo e sustentando pipelines de dados com foco em **observabilidade, data quality e melhoria contínua** — não só entregar o dado, mas garantir que ele seja confiável, monitorável e rastreável da origem até o consumo.
+Trabalho construindo e sustentando pipelines de dados com foco em **observabilidade, data quality e melhoria contínua**, não só entregar o dado, mas garantir que ele seja confiável, monitorável e rastreável da origem até o consumo.
 
 No dia a dia atuo em: modelagem e processamento distribuído com PySpark/Databricks, orquestração no Azure Data Factory, automações em Python, e criação de camadas de monitoramento e alertas para detectar falhas antes que o negócio detecte.
 
