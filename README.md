@@ -38,17 +38,3 @@ No dia a dia atuo em: modelagem e processamento distribuído com PySpark/Databri
 
 **Análise e Desenvolvimento de Sistemas** — Universidade Presbiteriana Mackenzie
 
----
-
-## 🌐 About me (EN)
-
-I'm a **Data Engineer** with a focus on **observability, data quality and continuous improvement**. I build and maintain data pipelines using PySpark and Databricks, orchestrate workflows with Azure Data Factory, and write Python automations that replace manual processes. My work is centered on making data trustworthy and traceable — from source systems to the final dashboard.
-
-Currently studying Systems Analysis and Development at Universidade Presbiteriana Mackenzie.
-
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
