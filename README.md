@@ -1,4 +1,4 @@
-# Oi, eu sou a Duda!
+
 
 **Engenheira de Dados** | Estudante de Análise e Desenvolvimento de Sistemas
 
