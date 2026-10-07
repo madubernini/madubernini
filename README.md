@@ -8,7 +8,6 @@ No dia a dia atuo em: modelagem e processamento distribuído com PySpark/Databri
 
 ---
 
-## 🛠️ Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -22,7 +21,6 @@ No dia a dia atuo em: modelagem e processamento distribuído com PySpark/Databri
 
 ---
 
-## 🎯 Foco de atuação
 
 | Área | O que faço |
 |---|---|
