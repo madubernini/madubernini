@@ -32,7 +32,6 @@ No dia a dia atuo em: modelagem e processamento distribuído com PySpark/Databri
 
 ---
 
-## 🎓 Formação
 
 **Análise e Desenvolvimento de Sistemas** — Universidade Presbiteriana Mackenzie
 
